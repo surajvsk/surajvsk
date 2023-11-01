@@ -1,7 +1,7 @@
 <h1>Hi there 👋</h1>
 My name is Suraj Vishwakarma and i'm a fullstack developer and open-source creator at nights. I'm excited about web technologies, developer UI and tooling.
 
-My Javascript Tech Stack:
+<h3 style="color:silver">My Javascript Tech Stack:</h3>
 
 <p>Nodejs for backend development</p>
 <p>Database: MSSQL Server, PostgrSql</p>
