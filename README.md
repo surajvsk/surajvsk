@@ -3,8 +3,8 @@ My name is Suraj Vishwakarma and i'm a fullstack developer and open-source creat
 
 My Javascript Tech Stack:
 
-Nodejs for backend development
-MSSQL Server, PostgrSql
+<p>Nodejs for backend development</p>
+<p>Database: MSSQL Server, PostgrSql</p>
 
   <script>
   const meaningfulQuote = "Learning is most effective when it's applied in practice.";
