@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @surajvsk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi there 👋
+My name is Suraj Vishwakarma and i'm a fullstack developer and open-source creator at nights. I'm excited about web technologies, developer UI and tooling.
 
-<code>
+My Javascript Tech Stack:
+
+Nodejs for backend development
+MSSQL Server, PostgrSql
+
   <script>
-const meaningfulQuote = "Learning is most effective when it's applied in practice.";
+  const meaningfulQuote = "Learning is most effective when it's applied in practice.";
 </script>
 
-</code>
 
 <!---
 surajvsk/surajvsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
