@@ -1,4 +1,4 @@
-- Hi there 👋
+<h1>Hi there 👋</h1>
 My name is Suraj Vishwakarma and i'm a fullstack developer and open-source creator at nights. I'm excited about web technologies, developer UI and tooling.
 
 My Javascript Tech Stack:
