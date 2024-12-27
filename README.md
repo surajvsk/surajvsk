@@ -1,17 +1,50 @@
-<h1>Hi there 👋</h1>
-My name is Suraj Vishwakarma and i'm a fullstack developer and open-source creator at nights. I'm excited about web technologies, developer UI and tooling.
+# Hi there 👋
 
-<h3 style="color:silver">My Javascript Tech Stack:</h3>
+## I'm Suraj Vishwakarma
 
-<p>Nodejs for backend development</p>
-<p>Database: MSSQL Server, PostgrSql</p>
+I am a **Full-Stack Developer** passionate about building efficient and scalable web applications. By day, I craft robust solutions with modern web technologies; by night, I contribute to the open-source community to help others and grow as a developer. 
 
-  <script>
-  const meaningfulQuote = "Learning is most effective when it's applied in practice.";
-</script>
+### 👨‍💻 About Me:
+- **Current Role:** Full-Stack Developer & Open-Source Creator  
+- **Tech Passion:** Web technologies, developer tooling, and intuitive UI design  
+- **Interests:** Continuous learning, building developer-centric tools, and exploring new frameworks.
 
+---
 
-<!---
-surajvsk/surajvsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 My Tech Stack:
+
+#### **Frontend Development:**
+- Frontend: HTML,REACT
+- Styling: TailwindCSS, Ant Design
+
+#### **Backend Development:**
+- **Node.js** (Express.js, Hapi.js)
+- **Database:** PostgreSQL, MSSQL Server,  Redis, MySql
+
+#### **Tools & Other Technologies:**
+- Testing: Jest
+- Third-Party Integrations: Google APIs, Firebase, Axios, Joi, Bull
+
+#### **Version Control:**
+- Git & GitHub for collaborative development
+
+---
+
+### 🌟 Quote I Live By:
+```javascript
+const meaningfulQuote = "Learning is most effective when it's applied in practice.";
+console.log(meaningfulQuote);
+```
+
+---
+
+### 📈 GitHub Stats:
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajvsk&show_icons=true&theme=radical)
+![GitHub Repositories](https://img.shields.io/github/repos/surajvsk?style=flat-square&color=blue&label=Repositories)
+
+---
+
+### 📫 Let's Connect:
+- **LinkedIn:** [linkedin.com/in/suraj-vishwakarma](#)
+- **Portfolio:** [surajvsk.dev](#) _(Coming Soon)_
+- **Email:** [surajvsk@example.com](mailto:surajvsk@example.com)
