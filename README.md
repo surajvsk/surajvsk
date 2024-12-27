@@ -46,5 +46,5 @@ console.log(meaningfulQuote);
 
 ### 📫 Let's Connect:
 - **LinkedIn:** [linkedin.com/in/suraj-vishwakarma](#)
-- **Portfolio:** [surajvsk.dev](#) _(Coming Soon)_
+- **Portfolio:** [[surajvsk.dev](https://www.c-sharpcorner.com/members/suraj-vishwakarma5)](#) _(Coming Soon)_
 - **Email:** [surajvsk@example.com](mailto:surajvsk@example.com)
