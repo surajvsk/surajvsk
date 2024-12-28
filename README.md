@@ -1,50 +1,67 @@
-# Hi there 👋
-
-## I'm Suraj Vishwakarma
-
-I am a **Full-Stack Developer** passionate about building efficient and scalable web applications. By day, I craft robust solutions with modern web technologies; by night, I contribute to the open-source community to help others and grow as a developer. 
-
-### 👨‍💻 About Me:
-- **Current Role:** Full-Stack Developer & Open-Source Creator  
-- **Tech Passion:** Web technologies, developer tooling, and intuitive UI design  
-- **Interests:** Continuous learning, building developer-centric tools, and exploring new frameworks.
+Here's a **README** file draft based on your resume for uploading to GitHub:
 
 ---
 
-### 💻 My Tech Stack:
+# Suraj Vishwakarma - Software Engineer
 
-#### **Frontend Development:**
-- Frontend: HTML,REACT
-- Styling: TailwindCSS, Ant Design
+Decisive, strategic, and performance-driven Software Engineer with 5 years of experience in backend and full-stack development. Proficient in designing scalable solutions, integrating third-party APIs, and delivering robust applications. Experienced in cloud deployments on AWS and Digital Ocean, I am seeking a senior-level backend development role in a reputable organization.
 
-#### **Backend Development:**
-- **Node.js** (Express.js, Hapi.js)
-- **Database:** PostgreSQL, MSSQL Server,  Redis, MySql
+## 🛠️ Skills
 
-#### **Tools & Other Technologies:**
-- Testing: Jest
-- Third-Party Integrations: Google APIs, Firebase, Axios, Joi, Bull
+### Backend
+- **Node.js, Express.js, PostgreSQL, MySQL, Redis**
+- **Oracle 12c, Spring Boot**
 
-#### **Version Control:**
-- Git & GitHub for collaborative development
+### Frontend
+- **HTML5, CSS3, JavaScript, jQuery**
+- **Bootstrap, React.js**
+
+### Others
+- **GitHub, Socket.io, PM2, Nginx**
+- **RabbitMQ, ASP.NET, MongoDB**
+- **REST API, SOAP, Web Services**
+- **Linux, WordPress, PHP, Laravel (Basic)**
+
+### Cloud Platforms
+- **AWS (EC2, S3, API Gateway), Digital Ocean**
+- **cPanel, WHM, Plesk**
+
+## 💼 Work Experience
+
+### Software Developer | OSR Infotech (Apr 2019 - Current)
+- **Learning Management System (LMS):** Developed content upload features integrated with AWS S3 and SAP APIs for data exchange.
+- **Question Bank Management System:** Designed a backend architecture using Node.js, PostgreSQL, and integrated RSA Security.
+- **Car Rental Application:** Integrated third-party payment APIs and webhook notifications for real-time updates.
+
+### Software Engineer | Web Floats Technologies (Aug 2017 - Jan 2019)
+- Led technical documentation and frontend development using HTML, CSS, JavaScript, and Bootstrap.
+
+## 🎓 Education
+- **Bachelor of Science: Information Technology**  
+  *Tilak Education Society's J.K. College of Science & Commerce, Navi Mumbai (2015-2018)*
+
+## 🏆 Certifications
+- **Java Development and Oracle Database 12c** (*Aptech, 2017*)
+
+## 🚀 Key Projects
+
+### Question Bank Management System
+- Centralized question repository with advanced functionalities like DOC to PDF conversion using Node.js and Microsoft Word integration.
+
+### Learning Management System
+- Developed attendance management, online tests, and results modules with AWS-based deployment.
+
+### Freight Agent Online
+- Built backend for real-time quote requests for bulk goods transportation, deployed on AWS.
+
+### Bulk Email Marketing App
+- Full-stack development of an app for promotional email sending and tracking, deployed on Digital Ocean.
 
 ---
 
-### 🌟 Quote I Live By:
-```javascript
-const meaningfulQuote = "Learning is most effective when it's applied in practice.";
-console.log(meaningfulQuote);
-```
+### 📫 Contact
+- **Email:** [surajvishwakarma338@gmail.com](mailto:surajvishwakarma338@gmail.com)  
+- **LinkedIn:** [Suraj Vishwakarma](https://www.linkedin.com/in/suraj-vishwakarma-6b1744123/)  
+- **GitHub:** [surajvsk](https://github.com/surajvsk)
 
----
-
-### 📈 GitHub Stats:
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajvsk&show_icons=true&theme=radical)
-![GitHub Repositories](https://img.shields.io/github/repos/surajvsk?style=flat-square&color=blue&label=Repositories)
-
----
-
-### 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/suraj-vishwakarma](#)
-- **Portfolio:** [[surajvsk.dev](https://www.c-sharpcorner.com/members/suraj-vishwakarma5)](#) _(Coming Soon)_
-- **Email:** [surajvsk@example.com](mailto:surajvsk@example.com)
+Feel free to use or modify this template for your GitHub profile or repository! Let me know if you'd like any adjustments.
