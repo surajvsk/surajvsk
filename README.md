@@ -56,7 +56,6 @@ Decisive, strategic, and performance-driven Software Engineer with 5 years of ex
 ---
 
 ### 📫 Contact
-- **Email:** [surajvishwakarma338@gmail.com](mailto:surajvishwakarma338@gmail.com)  
 - **LinkedIn:** [Suraj Vishwakarma](https://www.linkedin.com/in/suraj-vishwakarma-6b1744123/)  
 - **GitHub:** [surajvsk](https://github.com/surajvsk)
 
