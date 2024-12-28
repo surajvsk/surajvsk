@@ -49,21 +49,17 @@ I'm currently seeking a challenging **senior backend role** where I can contribu
 
 ---
 
-## 🚀 Impactful Projects  
+## 🏆 **Projects That Define Me**  
 
-### **📚 Question Bank Management System**  
-- Centralized repository for seamless exam creation, with **Microsoft Word-to-PDF conversion** powered by **Node.js** and **Windows Server.**  
-
-### **📊 Learning Management System**  
-- Comprehensive education platform with attendance tracking, online tests, and results management, deployed on AWS.  
-
-### **💼 Freight Agent Online**  
-- Built backend to handle real-time quote requests for bulk goods, leveraging AWS for a scalable solution.  
-
-### **📧 Bulk Email Marketing App**  
-- Developed and deployed an email tracking app with **Node.js** and **PostgreSQL** on **Digital Ocean.**  
+| **Project**               | **Tech Stack**                | **Highlights**                                                                 |  
+|---------------------------|------------------------------|-------------------------------------------------------------------------------|  
+| **Question Bank System**  | Node.js, PostgreSQL          | Centralized repository, Word-to-PDF conversion, RSA security integration      |  
+| **Learning Management**   | Node.js, MySQL, AWS          | Attendance, online tests, results management                                  |  
+| **Freight Agent Online**  | Node.js, AWS                 | Real-time quote handling for bulk goods                                       |  
+| **Bulk Email App**        | Node.js, PostgreSQL, DigitalOcean | Promotional email tracking, seamless deployment                               |  
 
 ---
+
 
 ## 🌈 Why Choose Me?  
 
