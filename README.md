@@ -1,7 +1,3 @@
-Here's a **README** file draft based on your resume for uploading to GitHub:
-
----
-
 # Suraj Vishwakarma - Software Engineer
 
 Decisive, strategic, and performance-driven Software Engineer with 5 years of experience in backend and full-stack development. Proficient in designing scalable solutions, integrating third-party APIs, and delivering robust applications. Experienced in cloud deployments on AWS and Digital Ocean, I am seeking a senior-level backend development role in a reputable organization.
