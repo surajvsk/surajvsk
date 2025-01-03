@@ -83,4 +83,9 @@ I'm currently seeking a challenging **senior backend role** where I can contribu
 
 ---
 
+<h1>📊 GitHub Stats:</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=surajvsk&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajvsk&amp;theme=dark&amp;hide_border=false" alt=""><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajvsk&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
+<p><a href="https://visitcount.itsvg.in" target="_blank"><img src="https://visitcount.itsvg.in/api?id=surajvsk&amp;icon=0&amp;color=0" alt=""></a></p>
 Let’s create something amazing together! 🎯  
