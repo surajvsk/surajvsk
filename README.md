@@ -3,7 +3,7 @@
 *"Strive for perfection in everything you do. Take the best that exists and make it better."*  
 — *Henry Royce*  
 
-Hello there! 👋 I'm a **performance-driven Full-Stack Developer** with **5 years of experience** crafting robust, scalable, and efficient applications. My expertise lies in backend development, designing innovative solutions, and managing cloud deployments. I thrive in dynamic environments, collaborating with teams to deliver impactful software that meets both user and business needs. 🚀  
+Hello there! 👋 I'm a **performance-driven Full-Stack Developer** with **7 years of experience** crafting robust, scalable, and efficient applications. My expertise lies in backend development, designing innovative solutions, and managing cloud deployments. I thrive in dynamic environments, collaborating with teams to deliver impactful software that meets both user and business needs. 🚀  
 
 I'm currently seeking a challenging **senior backend role** where I can contribute to solving complex problems, implement modern architectures, and lead projects to success.  
 
